@@ -1,0 +1,5 @@
+marvel.agent.exporters:
+
+  id1:
+    type: http
+    host:
